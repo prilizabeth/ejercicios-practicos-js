@@ -37,7 +37,7 @@ function esVocal() {
 // Realice un programa para informar si el número está dentro del rango
 // Si está en rango, informar si el número es par
 // Si no está dentro del rango, informar si es número es impar
-// Tenga en cuenta que el rango debe tener una diferencia mínima de 5 números enteros *valido esto o finjo demencia?*
+// Tenga en cuenta que el rango debe tener una diferencia mínima de 5 números enteros
 function estaEnRango() {
     let rangoNum = prompt('Ingrese un rango numérico con al menos 5 números de diferencia, separados por espacio');
     let unNum = prompt('Ingrese un número');
